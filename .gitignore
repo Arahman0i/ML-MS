@@ -3,6 +3,8 @@
 *.iws
 out/
 .env
+y.pub
+y
 
 # --- Python Virtual Environment ---
 .venv/
