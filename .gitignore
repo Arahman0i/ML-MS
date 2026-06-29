@@ -18,7 +18,7 @@ pyvenv.cfg
 
 # --- Jupyter Notebook Artifacts ---
 .ipynb_checkpoints/
-*/.ipynb_checkpoints/
+*/.ipynb_checkpoints/gi
 checkpoint_*.ipynb
 
 # --- Python Caching & Compiled Files ---
