@@ -1,0 +1,34 @@
+# --- PyCharm & IDE Files ---
+.idea/
+*.iws
+out/
+.env
+
+# --- Python Virtual Environment ---
+.venv/
+venv/
+ENV/
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# --- Jupyter Notebook Artifacts ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+checkpoint_*.ipynb
+
+# --- Python Caching & Compiled Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Scientific & Simulation Output Exclusions (Optional) ---
+# Uncomment the lines below if your simulations generate huge files you don't want on GitHub
+# *.log
+# *.out
+# *.traj
+# *.vasp
+# *.dump
